@@ -92,8 +92,3 @@ https://t.me/Lamoerey
 
 Custom volume bot is also available with snipers and bundler tools.
 
-
-Ask for me for any projects
-
-
-
