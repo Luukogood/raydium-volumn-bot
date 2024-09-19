@@ -1,7 +1,7 @@
 
-# Raydium Volume Bot Version 2
+# <H1>Raydium Volume Bot Version 2</H1>
 
-This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
+<b>Solana raydium volume bot v2</b>, the upgrade of solana raydium volume bot v1, is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell <b>volume swap</b> transactions simultaneously on the Raydium platform to increase volume. It leverages Solana's blockchain technology to perform these operations efficiently.
 
 ## 🔧 Last Version's Demerits
 - ❌ **Repetitive buy and sell with one wallet**: The last version of the Raydium Volume Bot used fixed wallets, so it was apparent on DexScreener that some wallets performed repetitive buy and sell actions.
