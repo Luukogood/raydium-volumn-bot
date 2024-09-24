@@ -52,7 +52,7 @@ TOKEN_MINT=7MFX5LySd9CdaD8irWnLLKanpDw6gxbBuhEg3qCHWc4C   # Mint address of toke
 
 The repository set to private, you need to contact in telegram or twitter
 ```
-git clone https://github.com/solana-lunatic/Raydium-Volume-Bot-V2.git
+git clone https://github.com/Rabnail/Raydium-Volume-Bot-V2.git
 cd Raydium-Volume-Bot-V2
 ```
 ### 2. Install dependencies
@@ -78,12 +78,12 @@ npm run gather
 
 # 👤 Author
 
-### Twitter: [@Lamoerey](https://twitter.com/Lamoerey)   
-https://twitter.com/Lamoerey
+### Twitter: [@Rabnail](https://twitter.com/Rabnail_SOL)   
+https://twitter.com/Rabnail_SOL
 
 
-### Telegram: [@Lamoerey](https://t.me/Lamoerey)   
-https://t.me/Lamoerey
+### Telegram: [@Rabnail](https://t.me/Rabnail_SOL)   
+https://t.me/Rabnail_SOL
 
 
 ### Volume bot source code can be owned with 10SOL.
