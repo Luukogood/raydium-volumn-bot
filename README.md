@@ -4,6 +4,7 @@
 <b>Solana raydium volume bot v2</b>, the upgrade of solana raydium volume bot v1, is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell <b>volume swap</b> transactions simultaneously on the Raydium platform to increase volume. It leverages Solana's blockchain technology to perform these operations efficiently.
 
 ## 🔧 Last Version's Demerits
+- ❌ **No JITO mode**: Jito mode was not there to make transaction speed higher.
 - ❌ **Repetitive buy and sell with one wallet**: The last version of the Raydium Volume Bot used fixed wallets, so it was apparent on DexScreener that some wallets performed repetitive buy and sell actions.
 - ❌ **No increase in the number of makers**: It didn't increase the number of pool makers, only the volume.
 - ❌ **Gathering token instead of SOL**: When gathering, if there were tokens left, it didn't sell them before gathering. Instead, it just gathered tokens to the main wallet.
@@ -14,6 +15,7 @@
 - ✅ **Maker increase**: New wallets are created every round of buying and selling, increasing the number of makers.
 - ✅ **Sell before gather**: When gathering, if there are tokens left in the wallet, it sells the tokens first and gathers only SOL (the token account rent of 0.00203 SOL is reclaimed).
 - ✅ **More buys than sells**: It randomly buys twice with SOL in the wallet and sells all tokens after some time, making the number of buys twice as many as sells, thus creating more buy pressure.
+- ✅ **Jito mode in buy sell**: Jito mode is added in version 2 to make tranasctions faster when you don't have good rpc like helius or triton.
 
 ## 🌟 Features
 - ⚙️ **Automated SOL Distribution**: Distributes SOL to new wallets.
@@ -45,6 +47,8 @@ DISTRIBUTE_WALLET_NUM=4      # Number of wallets that run in parallel which make
 SLIPPAGE=50                  # Slippage in percent
 
 TOKEN_MINT=7MFX5LySd9CdaD8irWnLLKanpDw6gxbBuhEg3qCHWc4C   # Mint address of token to increase volume
+JITO_MODE=false
+JITO_FEE=0.0001
 ```
 
 #  🚀 Usage
