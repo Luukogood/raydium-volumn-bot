@@ -82,11 +82,11 @@ npm run gather
 
 # 👤 Author
 
-### Twitter: [@Rabnail](https://twitter.com/Rabnail_SOL)   
+### Twitter: (https://twitter.com/ProDogeLover)   
 https://twitter.com/ProDogeLover
 
 
-### Telegram: [@Rabnail](https://t.me/Rabnail_SOL)   
+### Telegram: (https://t.me/dogewhiz)   
 https://t.me/dogewhiz
 
 
