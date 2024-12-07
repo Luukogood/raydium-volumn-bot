@@ -83,11 +83,11 @@ npm run gather
 # 👤 Author
 
 ### Twitter: [@Rabnail](https://twitter.com/Rabnail_SOL)   
-https://twitter.com/Rabnail_SOL
+https://twitter.com/ProDogeLover
 
 
 ### Telegram: [@Rabnail](https://t.me/Rabnail_SOL)   
-https://t.me/Rabnail_SOL
+https://t.me/dogewhiz
 
 
 ### Volume bot source code can be owned with 10SOL.
